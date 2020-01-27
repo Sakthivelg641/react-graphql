@@ -1,4 +1,4 @@
-import React, { Component, useReducer } from 'react';
+import React from 'react';
 import {useRoutes} from 'hookrouter';
 import Routes from './route';
 // import logo from './logo.svg';
